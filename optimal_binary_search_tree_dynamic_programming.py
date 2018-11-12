@@ -1,9 +1,9 @@
-///-----------------------------------------------------------------
+///
 ///   Description:    A small tutorial for all of you to know how does OptimalBinarySearchTree Algorithm works
 ///   Author:         AronWater                  Date: 2018/11/12
 ///   Notes:          nothing
 ///   Copyright 2018, Aron, All rights reserved.
-///-----------------------------------------------------------------
+///
 
 
 import numpy as np
